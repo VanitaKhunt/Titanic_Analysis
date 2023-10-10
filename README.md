@@ -14,5 +14,5 @@ We calculate various descriptive statistics, such as the average age of passenge
 4. **Grouping and Aggregation**
 We group the dataset by passenger class and survival status to analyze differences among these groups. This includes finding the average age of second-class passengers and counting survivors in the third class.
 
-5.**Data Visualization**
+5. **Data Visualization**
 We use data visualization techniques to present our findings effectively. We create a pie chart to visualize the distribution of passengers among different classes. Additionally, we generate a histogram to illustrate the age distribution of passengers.
